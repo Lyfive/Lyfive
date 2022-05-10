@@ -49,22 +49,16 @@
     </td>
     </tr>
 	<tr>
-		<td align="center">
+		<td width="55%" align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=LyFive&show_icons=true&title_color=blue&icon_color=ac4ef7f&text_color=blue&bg_color=0,fbefc4,fba9ae)](https://github.com/anuraghazra/github-readme-stats)
 </td>
-<td align="center">
+<td width="45%" align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LyFive&layout=compact&exclude_repo=LyFive.github.io&title_color=blue&icon_color=bb2acf&text_color=blue&bg_color=0,fbefc4,fba9ae)](https://github.com/anuraghazra/github-readme-stats)
 </td>
 </tr>
 </table>
-
-
-
-
-
-
 </body>
 
 </html>
