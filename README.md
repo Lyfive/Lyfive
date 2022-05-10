@@ -1,16 +1,75 @@
-### Hi there 👋
+<html lang="en">
+<body>
 
-<!--
-**Lyfive/Lyfive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table style="margin-left: auto; margin-right: auto;">
+    <tr>
+        <td>
+        Hi,I am LyFive<br>Welcome to my home page.<br>Now, I am a college student.<br>At the same time, I am an ICPC competitor.<br>I like to learn the basic knowledge of computer and want to be a Golang back-end Engineer at this stage.<br> I also want to explore the knowledge of artificial intelligence in the future.<br>I love sharing knowledge and experience and welcome to my code warehouse.<br>If I can help you, I hope you can give me a star or a fork.<br>
+    	</td>
+        <td>
+            <table>
+                <tr>
+                    <td><strong>I often use:<br></strong>
 
-Here are some ideas to get you started:
+![Golang](https://img.shields.io/badge/-Golang-007D7E?style=flat-square&logo=Go&logoColor=white)
+![CPP](https://img.shields.io/badge/-CPP-5c8dbc?style=flat-square&logo=cplusplus&logoColor=fff)
+![ACM](https://img.shields.io/badge/-ACM-%23F7DF1C?style=flat-square&logo=acm&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+[![Editor](https://img.shields.io/badge/IDE-Goland-2ac595?style=flat-square&logo=Goland&logoColor=white)](https://code.visualstudio.com/)
+[![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Windows)
+[![OS](https://img.shields.io/badge/OS-CentOS-informational?style=flat-square&logo=CentOS&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+                    </td>
+                </tr>
+                <tr>
+                    <td><strong>I also use:<br></strong>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C](https://img.shields.io/badge/-C-5c8dbc?style=flat-square&logo=c&logoColor=fff)
+![JAVA](https://img.shields.io/badge/-JAVA-d90000?style=flat-square&logo=java&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-234b6a?style=flat-square&logo=Python&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Vue.js](https://img.shields.io/badge/-Vue.js-111?style=flat-square&logo=Vue.js)
+                    </td>
+                </tr>
+            </table>
+		</td>
+    </tr>
+    <tr style="border:none">
+<td colspan="2" style="text-align: center;border: none">
+
+![LyFive](https://count.getloli.com/get/@LyFive)
+</td>
+    </tr>
+    <tr  style="border:none;">
+    <td colspan="2" style="text-align: center;border: none">
+
+![LyFive](https://komarev.com/ghpvc/?username=sumy7)
+![LyFive](https://visitor-badge.glitch.me/badge?page_id=sumy7.profile)
+    </td>
+    </tr>
+	<tr>
+		<td>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=LyFive&show_icons=true&title_color=blue&icon_color=ac4ef7f&text_color=blue&bg_color=0,fbefc4,fba9ae)](https://github.com/anuraghazra/github-readme-stats)
+</td>
+<td>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LyFive&layout=compact&exclude_repo=LyFive.github.io&title_color=blue&icon_color=bb2acf&text_color=blue&bg_color=0,fbefc4,fba9ae)](https://github.com/anuraghazra/github-readme-stats)
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+</body>
+
+</html>
+
+
+
+
+
