@@ -13,9 +13,9 @@
 
 ![Golang](https://img.shields.io/badge/-Golang-007D7E?style=flat-square&logo=Go&logoColor=white)
 ![CPP](https://img.shields.io/badge/-CPP-5c8dbc?style=flat-square&logo=cplusplus&logoColor=fff)
-![ACM](https://img.shields.io/badge/-ACM-%23F7DF1C?style=flat-square&logo=acm&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![ACM](https://img.shields.io/badge/-ACM-%23F7DF1C?style=flat-square&logo=acm&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) <br>
 [![Editor](https://img.shields.io/badge/IDE-Goland-2ac595?style=flat-square&logo=Goland&logoColor=white)](https://code.visualstudio.com/)
-[![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Windows)
+[![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Windows) <br>
 [![OS](https://img.shields.io/badge/OS-CentOS-informational?style=flat-square&logo=CentOS&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
                     </td>
@@ -25,10 +25,10 @@
 
 ![C](https://img.shields.io/badge/-C-5c8dbc?style=flat-square&logo=c&logoColor=fff)
 ![JAVA](https://img.shields.io/badge/-JAVA-d90000?style=flat-square&logo=java&logoColor=ffffff)
-![Python](https://img.shields.io/badge/-Python-234b6a?style=flat-square&logo=Python&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-234b6a?style=flat-square&logo=Python&logoColor=ffffff) <br>
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) <br>
 ![Vue.js](https://img.shields.io/badge/-Vue.js-111?style=flat-square&logo=Vue.js)
                     </td>
                 </tr>
