@@ -1,7 +1,7 @@
 <html lang="en">
 <body>
 
-<table style="margin-left: auto; margin-right: auto;">
+<table  style="margin-left: auto; margin-right: auto;">
     <tr>
         <td>
         Hi,I am LyFive<br>Welcome to my home page.<br>Now, I am a college student.<br>At the same time, I am an ICPC competitor.<br>I like to learn the basic knowledge of computer and want to be a Golang back-end Engineer at this stage.<br> I also want to explore the knowledge of artificial intelligence in the future.<br>I love sharing knowledge and experience and welcome to my code warehouse.<br>If I can help you, I hope you can give me a star or a fork.<br>
@@ -35,25 +35,25 @@
             </table>
 		</td>
     </tr>
-    <tr style="border:none">
-<td colspan="2" style="text-align: center;border: none">
+    <tr>
+<td colspan="2" align="center" border="0">
 
 ![LyFive](https://count.getloli.com/get/@LyFive)
 </td>
     </tr>
-    <tr  style="border:none;">
-    <td colspan="2" style="text-align: center;border: none">
+    <tr>
+    <td colspan="2" align="center" border="0">
 
 ![LyFive](https://komarev.com/ghpvc/?username=sumy7)
 ![LyFive](https://visitor-badge.glitch.me/badge?page_id=sumy7.profile)
     </td>
     </tr>
 	<tr>
-		<td>
+		<td align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=LyFive&show_icons=true&title_color=blue&icon_color=ac4ef7f&text_color=blue&bg_color=0,fbefc4,fba9ae)](https://github.com/anuraghazra/github-readme-stats)
 </td>
-<td>
+<td align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LyFive&layout=compact&exclude_repo=LyFive.github.io&title_color=blue&icon_color=bb2acf&text_color=blue&bg_color=0,fbefc4,fba9ae)](https://github.com/anuraghazra/github-readme-stats)
 </td>
