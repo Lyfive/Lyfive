@@ -38,7 +38,7 @@
     <tr>
 <td colspan="2" align="center" border="0">
 
-![LyFive](https://count.getloli.com/get/@LyFive)
+![Lyfive](https://count.getloli.com/get/@Lyfive?theme=gelbooru)
 </td>
     </tr>
     <tr>
