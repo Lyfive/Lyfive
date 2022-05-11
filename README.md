@@ -35,14 +35,14 @@
 <tr>
 <td colspan="2" align="center" border="0">
 
-![LyFive](https://count.getloli.com/get/@Lyfive?theme=rule34)
+![Lyfive](https://count.getloli.com/get/@Lyfive?theme=rule34)
 </td>
     </tr>
     <tr>
     <td colspan="2" align="center" border="0">
 
-![LyFive](https://komarev.com/ghpvc/?username=Lyfive)
-![LyFive](https://visitor-badge.glitch.me/badge?page_id=Lyfive.profile)
+![Lyfive](https://komarev.com/ghpvc/?username=Lyfive)
+![Lyfive](https://visitor-badge.glitch.me/badge?page_id=Lyfive.profile)
 </td>
 </tr>
 
