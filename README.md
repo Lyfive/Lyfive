@@ -35,7 +35,11 @@
 <tr>
 <td colspan="2" align="center" border="0">
 
+<<<<<<< HEAD
 ![LyFive](https://count.getloli.com/get/@Lyfive?theme=rule34)
+=======
+![Lyfive](https://count.getloli.com/get/@Lyfive?theme=gelbooru)
+>>>>>>> b2cc7f06951faa1b10f6f53943f80817db90281a
 </td>
     </tr>
     <tr>
