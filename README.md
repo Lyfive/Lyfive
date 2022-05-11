@@ -1,6 +1,3 @@
-<html lang="en">
-<body>
-
 <table width="100%"  style="margin-left: auto; margin-right: auto;">
     <tr>
         <td width="55%">
@@ -18,10 +15,10 @@
 [![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Windows) <br>
 [![OS](https://img.shields.io/badge/OS-CentOS-informational?style=flat-square&logo=CentOS&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-                    </td>
-                </tr>
-                <tr>
-                    <td><strong>I also use:<br></strong>
+</td>
+</tr>
+<tr>
+<td><strong>I also use:<br></strong>
 
 ![C](https://img.shields.io/badge/-C-5c8dbc?style=flat-square&logo=c&logoColor=fff)
 ![JAVA](https://img.shields.io/badge/-JAVA-d90000?style=flat-square&logo=java&logoColor=ffffff)
@@ -30,15 +27,15 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) <br>
 ![Vue.js](https://img.shields.io/badge/-Vue.js-111?style=flat-square&logo=Vue.js)
-                    </td>
-                </tr>
-            </table>
-		</td>
-    </tr>
-    <tr>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
 <td colspan="2" align="center" border="0">
 
-![LyFive](https://count.getloli.com/get/@LyFive)
+![LyFive](https://count.getloli.com/get/@Lyfive?theme=rule34)
 </td>
     </tr>
     <tr>
@@ -46,22 +43,23 @@
 
 ![LyFive](https://komarev.com/ghpvc/?username=sumy7)
 ![LyFive](https://visitor-badge.glitch.me/badge?page_id=sumy7.profile)
-    </td>
-    </tr>
-	<tr>
-		<td width="55%" align="center">
+</td>
+</tr>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=LyFive&show_icons=true&title_color=blue&icon_color=ac4ef7f&text_color=blue&bg_color=0,fbefc4,fba9ae)](https://github.com/anuraghazra/github-readme-stats)
-		</td>
-		<td width="45%" align="center">
+</table>
+<table>
+    <tr>
+        <td>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=LyFive&show_icons=true&title_color=blue&icon_color=ac4ef7f&text_color=blue&bg_color=0,fbefc4,fba9ae)](https://github.com/anuraghazra/github-readme-stats) 
+        </td>
+        <td>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LyFive&layout=compact&exclude_repo=LyFive.github.io&title_color=blue&icon_color=bb2acf&text_color=blue&bg_color=0,fbefc4,fba9ae)](https://github.com/anuraghazra/github-readme-stats)
-		</td>
-</tr>
-</table>
-</body>
+        </td>
+    </tr>
 
-</html>
+</table>
 
 
 
