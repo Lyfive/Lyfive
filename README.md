@@ -12,8 +12,9 @@
 ![CPP](https://img.shields.io/badge/-CPP-5c8dbc?style=flat-square&logo=cplusplus&logoColor=fff)
 ![ACM](https://img.shields.io/badge/-ACM-%23F7DF1C?style=flat-square&logo=acm&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) <br>
 [![Editor](https://img.shields.io/badge/IDE-Goland-2ac595?style=flat-square&logo=Goland&logoColor=white)](https://code.visualstudio.com/)
+[![Editor](https://img.shields.io/badge/IDE-vs2022-cd97f9?style=flat-square&logo=visualstudio&logoColor=cd97f9)](https://code.visualstudio.com/)
 [![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Windows) <br>
-[![OS](https://img.shields.io/badge/OS-CentOS-informational?style=flat-square&logo=CentOS&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+[![OS](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat-square&logo=Ubuntu&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 </td>
 </tr>
@@ -35,18 +36,14 @@
 <tr>
 <td colspan="2" align="center" border="0">
 
-<<<<<<< HEAD
 ![LyFive](https://count.getloli.com/get/@Lyfive?theme=rule34)
-=======
-![Lyfive](https://count.getloli.com/get/@Lyfive?theme=gelbooru)
->>>>>>> b2cc7f06951faa1b10f6f53943f80817db90281a
 </td>
     </tr>
     <tr>
     <td colspan="2" align="center" border="0">
 
-![LyFive](https://komarev.com/ghpvc/?username=sumy7)
-![LyFive](https://visitor-badge.glitch.me/badge?page_id=sumy7.profile)
+![LyFive](https://komarev.com/ghpvc/?username=Lyfive)
+![LyFive](https://visitor-badge.glitch.me/badge?page_id=Lyfive.profile)
 </td>
 </tr>
 
