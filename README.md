@@ -35,24 +35,15 @@
 </tr>
 <tr>
 <td colspan="2" align="center" border="0">
-<<<<<<< HEAD
 
 ![LyFive](https://count.getloli.com/get/@Lyfive?theme=rule34)
-=======
-<img src="https://count.getloli.com/get/@Lyfive?theme=rule34" alt="Lyfive" />
->>>>>>> 8c8d83dc4bf7e346e1af7cfe61891383e2beaa14
 </td>
     </tr>
     <tr>
     <td colspan="2" align="center" border="0">
 
-<<<<<<< HEAD
 ![LyFive](https://komarev.com/ghpvc/?username=Lyfive)
 ![LyFive](https://visitor-badge.glitch.me/badge?page_id=Lyfive.profile)
-=======
-![Lyfive](https://komarev.com/ghpvc/?username=Lyfive)
-![Lyfive](https://visitor-badge.glitch.me/badge?page_id=Lyfive.profile)
->>>>>>> 8c8d83dc4bf7e346e1af7cfe61891383e2beaa14
 </td>
 </tr>
 
