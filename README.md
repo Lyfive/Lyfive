@@ -12,9 +12,10 @@
 ![CPP](https://img.shields.io/badge/-CPP-5c8dbc?style=flat-square&logo=cplusplus&logoColor=fff)
 ![ACM](https://img.shields.io/badge/-ACM-%23F7DF1C?style=flat-square&logo=acm&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) <br>
 [![Editor](https://img.shields.io/badge/IDE-Goland-2ac595?style=flat-square&logo=Goland&logoColor=white)](https://code.visualstudio.com/)
-[![Editor](https://img.shields.io/badge/IDE-vs2022-cd97f9?style=flat-square&logo=visualstudio&logoColor=cd97f9)](https://code.visualstudio.com/)
-[![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Windows) <br>
+[![Editor](https://img.shields.io/badge/IDE-vs2022-cd97f9?style=flat-square&logo=visualstudio&logoColor=cd97f9)](https://code.visualstudio.com/)<br>
+[![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=macOS&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![OS](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat-square&logo=Ubuntu&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+[![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Windows)<br>
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 </td>
 </tr>
